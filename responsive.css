@@ -1,0 +1,55 @@
+@media (min-width:0px) and (max-width:592px){
+    #main-container{
+        display: block;
+    }
+    #dollar-to-inr{
+        width: 80%;
+    }
+    #pound-to-inr{
+        width: 80%;
+    }
+    #riyal-to-inr{
+        width: 80%;
+    }
+    #riyal-to-inr h1{
+        font-size: 27px;
+    }
+
+    #pkr-to-inr{
+        width: 80%;
+    }
+
+    footer{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    footer h1{
+        font-size: 18px;
+    }
+    .intro h2{
+        font-size: 27px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+    
+
