@@ -30,6 +30,19 @@
     .intro h2{
         font-size: 27px;
     }
+    
+    .inputcontainer input{
+        padding: 1rem 0.5rem;
+    }
+    .inputcontainer2 input{
+        padding: 1rem 0.5rem;
+    }
+    .inputcontainer3 input{
+        padding: 1rem 0.5rem;
+    }
+    .inputcontainer4 input{
+        padding: 1rem 0.5rem;
+    }
 
 
 
